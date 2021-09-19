@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Apoorv Pandey</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a B.Tech in Information Technology from UIT RGPV BHOPAL. I am a Flutter/Django developer. 
+I’m a 3rd-year student pursuing B.Tech in Information Technology from UIT RGPV BHOPAL. I am a Flutter/Django developer. 
 </h5>
 <a align= "center" href="https://github.com/apoorvpandey0">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvpandey0&theme=radical">
